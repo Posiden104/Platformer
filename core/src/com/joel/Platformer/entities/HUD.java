@@ -1,4 +1,4 @@
-package entities;
+package com.joel.Platformer.entities;
 
 import com.badlogic.gdx.graphics.Texture;
 import com.badlogic.gdx.graphics.g2d.SpriteBatch;
