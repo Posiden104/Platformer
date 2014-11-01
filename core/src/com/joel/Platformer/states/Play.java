@@ -24,15 +24,14 @@ import com.badlogic.gdx.physics.box2d.FixtureDef;
 import com.badlogic.gdx.physics.box2d.PolygonShape;
 import com.badlogic.gdx.physics.box2d.World;
 import com.badlogic.gdx.utils.Array;
+import com.joel.Platformer.entities.Crystal;
+import com.joel.Platformer.entities.HUD;
+import com.joel.Platformer.entities.Player;
 import com.joel.Platformer.handlers.B2DVars;
 import com.joel.Platformer.handlers.GameStateManager;
 import com.joel.Platformer.handlers.MyContactListener;
 import com.joel.Platformer.handlers.MyInput;
 import com.joel.Platformer.main.Game;
-
-import entities.Crystal;
-import entities.HUD;
-import entities.Player;
 
 public class Play extends GameState {
 
